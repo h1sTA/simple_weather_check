@@ -21,7 +21,7 @@ cd weather_checker
 pip install requests python-dotenv
 
 
-### Шаг 2: Настройка ключа
+## Шаг 2: Настройка ключа
   
 
 Получите ключ на WeatherAPI.com.
@@ -35,5 +35,5 @@ pip install requests python-dotenv
 WEATHERAPI_KEY="ВАШ_КЛЮЧ_API"
 
 
-### Шаг 3: Запуск  
+## Шаг 3: Запуск  
 python main.py
