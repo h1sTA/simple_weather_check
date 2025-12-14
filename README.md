@@ -15,16 +15,15 @@
 
 ### Шаг 1: Клонирование и установка
 
-```bash
+
 git clone [ССЫЛКА_НА_ВАШ_РЕПОЗИТОРИЙ]
 cd weather_checker
 pip install requests python-dotenv
 
 
 ### Шаг 2: Настройка ключа
+  
 
-
-```bash
 Получите ключ на WeatherAPI.com.
 
 Создайте файл .env в корне проекта.
