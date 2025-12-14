@@ -21,7 +21,10 @@ cd weather_checker
 pip install requests python-dotenv
 
 
-Шаг 2: Настройка ключа
+### Шаг 2: Настройка ключа
+
+
+```bash
 Получите ключ на WeatherAPI.com.
 
 Создайте файл .env в корне проекта.
@@ -31,7 +34,7 @@ pip install requests python-dotenv
 Фрагмент кода
 
 WEATHERAPI_KEY="ВАШ_КЛЮЧ_API"
-Шаг 3: Запуск
-Bash
 
+
+### Шаг 3: Запуск  
 python main.py
